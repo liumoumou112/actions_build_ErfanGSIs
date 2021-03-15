@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://download.h2os.com/5T/MP/OnePlus5THydrogen_43_OTA_064_all_2009080056_338a836209c54a7e.zip
-  ROM_NAME: OxygenOS
+  ROM_URL: https://media-gdgz-person.gdoss.xstore.ctyun.cn/PERSONCLOUD/36e64b43-b791-4d4f-ac3c-d00e0d929d2e.zip?x-amz-CLIENTTYPEIN=UNKNOWN&AWSAccessKeyId=B12spNbFIkHcJjk5MvKN&x-amz-limitrate=10240&x-amz-UID=780473321&x-amz-APPID=828221&response-content-disposition=attachment%3Bfilename%3D%22Flyme8.3.13-mata-by_Shuji_2021-03-13.zip%22&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=PERSON&Signature=uluqIPqp8940mEBcffLbyuWiJrQ%3D&x-amz-SHID=171473143&Expires=1615828305&x-amz-FSIZE=1949443633&x-amz-UFID=31511112774282634
+  ROM_NAME: flmye
   TZ: Asia/Shanghai
 
 jobs:
