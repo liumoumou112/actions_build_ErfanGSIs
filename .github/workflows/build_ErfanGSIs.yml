@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/20.4.27/miui_CEPHEUS_20.4.27_2b15191b0e_10.0.zip
-  ROM_NAME: miui
+  ROM_URL: https://cloud189bj2.oos-bj2.ctyunapi.cn/PERSONCLOUD/36aaa528-79f3-4582-ade5-775f3c3a6c00.zip?x-amz-CLIENTTYPEIN=UNKNOWN&AWSAccessKeyId=8d47af226f893e056f0c&x-amz-UID=800752042&x-amz-APPID=828221&response-content-disposition=attachment%3Bfilename%3D%22MI9SE_V12.0.1.0.QFBCNXM_c3398e4f_10.0.zip%22&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=PERSON&x-amz-limit=rate%3D10240%2Cconcurrency%3D20&Signature=a0edP6b%2BZ9JvJwL41Q4Bxai3raQ%3D&x-amz-SHID=169793958&Expires=1616184671&x-amz-FSIZE=2151963029&x-amz-UFID=21413311100093246
+  ROM_NAME: gsi
   TZ: Asia/Shanghai
 
 jobs:
