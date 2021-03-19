@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://media-gdgz-person.gdoss.xstore.ctyun.cn/PERSONCLOUD/36e64b43-b791-4d4f-ac3c-d00e0d929d2e.zip?x-amz-CLIENTTYPEIN=UNKNOWN&AWSAccessKeyId=B12spNbFIkHcJjk5MvKN&x-amz-limitrate=10240&x-amz-UID=780473321&x-amz-APPID=828221&response-content-disposition=attachment%3Bfilename%3D%22Flyme8.3.13-mata-by_Shuji_2021-03-13.zip%22&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=PERSON&Signature=sjUhTElaxoD3W5rNLtlRLR79Rmw%3D&x-amz-SHID=171473143&Expires=1615828651&x-amz-FSIZE=1949443633&x-amz-UFID=31511112774282634
-  ROM_NAME: flmye
+  ROM_URL: https://bigota.d.miui.com/V12.0.11.0.QJQCNXM/miui_LIME_V12.0.11.0.QJQCNXM_63872c88ea_10.0.zip
+  ROM_NAME: miui12
   TZ: Asia/Shanghai
 
 jobs:
