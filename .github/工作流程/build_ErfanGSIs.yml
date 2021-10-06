@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: http://romdownload.nubia.com/Z30Pro/V1.20/NX667J-update.zip
-  ROM_NAME: nubia
+  ROM_NAME: nubi
   TZ: Asia/Shanghai
 、
 jobs:
